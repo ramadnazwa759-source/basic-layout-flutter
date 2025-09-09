@@ -1,16 +1,18 @@
 # basic_layout_flutter
+- langkah 1 Buat main.dart
+<img width="537" height="255" alt="image" src="https://github.com/user-attachments/assets/773dc4fd-14a0-4eba-afa6-96ceefbe8e31" />
 
-A new Flutter project.
+- langkah 2 Tambahkan Tata Letak Utama (Row)
 
-## Getting Started
+- langkah 3 Buat Widget Deskripsi tentang pancake
+Dengan membuat Kelas Widget
+<img width="459" height="226" alt="image" src="https://github.com/user-attachments/assets/9614a700-a0aa-4e09-b6da-06b1d26f4545" />
 
-This project is a starting point for a Flutter application.
+- langkah 4 Buat Widget untuk gambar dari pancake.
+Masukkan jalur aset gambar Anda, seperti 'assets/pancake.jpg'.
+![American Pancakes](https://github.com/user-attachments/assets/b9848252-6e2a-4698-a991-a01bed281497)
 
-A few resources to get you started if this is your first Flutter project:
+- Lalu gabungkan dan uji
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35cb2b08-872b-46bb-a45a-d832e47b1de8" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
