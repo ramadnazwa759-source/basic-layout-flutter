@@ -13,6 +13,5 @@ Masukkan jalur aset gambar Anda, seperti 'assets/pancake.jpg'.
 ![American Pancakes](https://github.com/user-attachments/assets/b9848252-6e2a-4698-a991-a01bed281497)
 
 - Lalu gabungkan dan uji
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35cb2b08-872b-46bb-a45a-d832e47b1de8" />
-
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2fedc0f5-b597-4985-bfdb-c73659668ba0" />
 
